@@ -314,9 +314,9 @@ export const CLASSES: {[key: string]: ObjectDetectionClass} = {
     displayName: 'couch',
   },
   64: {
-    name: '/m/03fp41',
+    name: '/m/05s2s',
     id: 64,
-    displayName: 'potted plant',
+    displayName: 'plant',
   },
   65: {
     name: '/m/03ssj5',
